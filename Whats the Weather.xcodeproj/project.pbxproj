@@ -13,6 +13,7 @@
 		606BB2DA25C487AC0080EC20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 606BB2D825C487AC0080EC20 /* Main.storyboard */; };
 		606BB2DC25C487B10080EC20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 606BB2DB25C487B10080EC20 /* Assets.xcassets */; };
 		606BB2DF25C487B10080EC20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 606BB2DD25C487B10080EC20 /* LaunchScreen.storyboard */; };
+		606BB2E825C489AD0080EC20 /* sunnySnowBackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 606BB2E725C489AD0080EC20 /* sunnySnowBackground.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		606BB2DB25C487B10080EC20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		606BB2DE25C487B10080EC20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		606BB2E025C487B10080EC20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		606BB2E725C489AD0080EC20 /* sunnySnowBackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sunnySnowBackground.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				606BB2D425C487AC0080EC20 /* SceneDelegate.swift */,
 				606BB2D625C487AC0080EC20 /* ViewController.swift */,
 				606BB2D825C487AC0080EC20 /* Main.storyboard */,
+				606BB2E725C489AD0080EC20 /* sunnySnowBackground.jpg */,
 				606BB2DB25C487B10080EC20 /* Assets.xcassets */,
 				606BB2DD25C487B10080EC20 /* LaunchScreen.storyboard */,
 				606BB2E025C487B10080EC20 /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				606BB2DF25C487B10080EC20 /* LaunchScreen.storyboard in Resources */,
 				606BB2DC25C487B10080EC20 /* Assets.xcassets in Resources */,
+				606BB2E825C489AD0080EC20 /* sunnySnowBackground.jpg in Resources */,
 				606BB2DA25C487AC0080EC20 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
