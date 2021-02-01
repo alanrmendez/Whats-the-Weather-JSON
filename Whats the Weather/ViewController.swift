@@ -61,7 +61,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
                                 
                                 let dataStringArrayBrick = dataStringArrayWood[0]
                                 
-                                dataStringArrayWolf = dataStringArrayBrick.replacingOccurrences(of: "&deg;C", with: " degrees Celsius")
+                                dataStringArrayWolf = dataStringArrayBrick.replacingOccurrences(of: "&deg;", with: "°")
             
                                 print(dataStringArrayWolf)
                                 
