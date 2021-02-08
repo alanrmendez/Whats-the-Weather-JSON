@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		606BB2CF25C487AC0080EC20 /* Whats the Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whats the Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		606BB2CF25C487AC0080EC20 /* Whats the Weather-JSON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whats the Weather-JSON.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		606BB2D225C487AC0080EC20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		606BB2D425C487AC0080EC20 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		606BB2D625C487AC0080EC20 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		606BB2C625C487AC0080EC20 = {
 			isa = PBXGroup;
 			children = (
-				606BB2D125C487AC0080EC20 /* Whats the Weather */,
+				606BB2D125C487AC0080EC20 /* Whats the Weather-JSON */,
 				606BB2D025C487AC0080EC20 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		606BB2D025C487AC0080EC20 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				606BB2CF25C487AC0080EC20 /* Whats the Weather.app */,
+				606BB2CF25C487AC0080EC20 /* Whats the Weather-JSON.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		606BB2D125C487AC0080EC20 /* Whats the Weather */ = {
+		606BB2D125C487AC0080EC20 /* Whats the Weather-JSON */ = {
 			isa = PBXGroup;
 			children = (
 				606BB2D225C487AC0080EC20 /* AppDelegate.swift */,
@@ -67,15 +67,15 @@
 				606BB2DD25C487B10080EC20 /* LaunchScreen.storyboard */,
 				606BB2E025C487B10080EC20 /* Info.plist */,
 			);
-			path = "Whats the Weather";
+			path = "Whats the Weather-JSON";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		606BB2CE25C487AC0080EC20 /* Whats the Weather */ = {
+		606BB2CE25C487AC0080EC20 /* Whats the Weather-JSON */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606BB2E325C487B10080EC20 /* Build configuration list for PBXNativeTarget "Whats the Weather" */;
+			buildConfigurationList = 606BB2E325C487B10080EC20 /* Build configuration list for PBXNativeTarget "Whats the Weather-JSON" */;
 			buildPhases = (
 				606BB2CB25C487AC0080EC20 /* Sources */,
 				606BB2CC25C487AC0080EC20 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = "Whats the Weather";
+			name = "Whats the Weather-JSON";
 			productName = "Whats the Weather";
-			productReference = 606BB2CF25C487AC0080EC20 /* Whats the Weather.app */;
+			productReference = 606BB2CF25C487AC0080EC20 /* Whats the Weather-JSON.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 606BB2CA25C487AC0080EC20 /* Build configuration list for PBXProject "Whats the Weather" */;
+			buildConfigurationList = 606BB2CA25C487AC0080EC20 /* Build configuration list for PBXProject "Whats the Weather-JSON" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				606BB2CE25C487AC0080EC20 /* Whats the Weather */,
+				606BB2CE25C487AC0080EC20 /* Whats the Weather-JSON */,
 			);
 		};
 /* End PBXProject section */
@@ -291,12 +291,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Whats the Weather/Info.plist";
+				INFOPLIST_FILE = "Whats the Weather-JSON/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.aurora.Whats-the-Weather";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.aurora.Whats-the-Weather-JSON";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,12 +309,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Whats the Weather/Info.plist";
+				INFOPLIST_FILE = "Whats the Weather-JSON/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.aurora.Whats-the-Weather";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.aurora.Whats-the-Weather-JSON";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		606BB2CA25C487AC0080EC20 /* Build configuration list for PBXProject "Whats the Weather" */ = {
+		606BB2CA25C487AC0080EC20 /* Build configuration list for PBXProject "Whats the Weather-JSON" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				606BB2E125C487B10080EC20 /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606BB2E325C487B10080EC20 /* Build configuration list for PBXNativeTarget "Whats the Weather" */ = {
+		606BB2E325C487B10080EC20 /* Build configuration list for PBXNativeTarget "Whats the Weather-JSON" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				606BB2E425C487B10080EC20 /* Debug */,
